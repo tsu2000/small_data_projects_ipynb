@@ -1,0 +1,101 @@
+RANK,NAME,INDUSTRIES,COUNTRY/TERRITORY,EMPLOYEES
+1,Samsung Electronics,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",South Korea,266673
+2,Microsoft,"IT, Internet, Software & Services",United States,221000
+3,IBM,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,250000
+4,Alphabet,"IT, Internet, Software & Services",United States,156500
+5,Apple,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,154000
+6,Delta Air Lines,Transportation and Logistics,United States,80000
+7,Costco Wholesale,Retail and Wholesale,United States,288000
+8,Adobe,"IT, Internet, Software & Services",United States,25988
+9,Southwest Airlines,Transportation and Logistics,United States,55093
+10,Dell Technologies,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,133000
+11,Lockheed Martin,Aerospace & Defense,United States,114000
+12,Cisco Systems,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",United States,79500
+13,BMW Group,Automotive (Automotive and Suppliers),Germany,118909
+14,Amazon,"IT, Internet, Software & Services",United States,1608000
+15,Decathlon,Retail and Wholesale,France,100000
+16,Adidas,"Clothing, Shoes, Sports Equipment",Germany,61401
+17,AIRBUS,Aerospace & Defense,Netherlands,125000
+18,Ferrari,Automotive (Automotive and Suppliers),Italy,4556
+19,Fraunhofer Society,Healthcare & Social,Germany,30028
+20,Reliance Industries,Conglomerate,India,230000
+21,Rolex,"Clothing, Shoes, Sports Equipment",Switzerland,14000
+22,Dassault Group,Aerospace & Defense,France,12371
+23,Huawei,"Telecommunications Services, Cable Supplier",China,196000
+24,Bosch,Automotive (Automotive and Suppliers),Germany,402600
+25,Mercedes-Benz Group,Automotive (Automotive and Suppliers),Germany,172425
+26,Rossmann,Retail and Wholesale,Germany,56500
+27,Intuit,"IT, Internet, Software & Services",United States,14200
+28,Safran,Aerospace & Defense,France,76800
+29,Pfizer,Drugs & Biotechnology,United States,79000
+30,JD.com,Retail and Wholesale,China,298717
+31,IKEA,Retail and Wholesale,Netherlands,208000
+32,Coca-Cola,"Food, Soft Beverages, Alcohol & Tobacco",United States,79000
+33,Armani Group,"Clothing, Shoes, Sports Equipment",Italy,8000
+34,Honda Motor,Automotive (Automotive and Suppliers),Japan,211374
+35,3M,Conglomerate,United States,95000
+36,Yamaha,"Engineering, Manufacturing",Japan,19895
+37,Nike,"Clothing, Shoes, Sports Equipment",United States,73300
+38,Siemens,"Engineering, Manufacturing",Germany,303000
+39,Puma,"Clothing, Shoes, Sports Equipment",Germany,14000
+40,UKG,"IT, Internet, Software & Services",United States,15000
+41,Dr. Oetker,"Food, Soft Beverages, Alcohol & Tobacco",Germany,17900
+42,Marriott International,Travel & Leisure      ,United States,120000
+43,Northrop Grumman,Aerospace & Defense,United States,90000
+44,Volkswagen Group,Automotive (Automotive and Suppliers),Germany,668000
+45,PayPal,Banking and Financial Services,United States,30900
+46,Saudi Arabian Oil Company (Saudi Aramco),"Construction, Oil & Gas Operations, Mining and Chemicals",Saudi Arabia,70000
+47,Tencent Holdings,"IT, Internet, Software & Services",China,112771
+48,Sanofi,Drugs & Biotechnology,France,95000
+49,Rolls-Royce Holdings,Aerospace & Defense,United Kingdom,44000
+50,Johnson & Johnson,Drugs & Biotechnology,United States,130000
+51,Target,Retail and Wholesale,United States,450000
+52,The Home Depot,Retail and Wholesale,United States,30000
+53,Hyatt Hotels,Travel & Leisure      ,United States,164000
+54,Boeing,Aerospace & Defense,United States,142000
+55,Ford Motor,Automotive (Automotive and Suppliers),United States,26000
+56,Shopify,"IT, Internet, Software & Services",Canada,10000
+57,Colgate-Palmolive,Packaged Goods,United States,33800
+58,General Dynamics,Aerospace & Defense,United States,100000
+59,Philips,Health Care Equipment & Services,Netherlands,78831
+60,MTU Aero Engines,Aerospace & Defense,Germany,10000
+61,Chanel,"Clothing, Shoes, Sports Equipment",United Kingdom,28500
+62,Raymond James Financial,Banking and Financial Services,United States,15000
+63,L'Oréal,Packaged Goods,France,85252
+64,Capital One,Banking and Financial Services,United States,52781
+65,TD Bank Group,Banking and Financial Services,Canada,90000
+66,Oracle,"IT, Internet, Software & Services",United States,133000
+67,Netflix,Media & Advertising,United States,11300
+68,Carl-Zeiss-Stiftung,"Engineering, Manufacturing",Germany,35375
+69,"Merck KGaA, Darmstadt, Germany and its affiliates",Drugs & Biotechnology,Germany,60334
+70,Wacker Chemie,"Construction, Oil & Gas Operations, Mining and Chemicals",Germany,14400
+71,ENBW,Utilities,Germany,20000
+72,Prada,"Clothing, Shoes, Sports Equipment",Italy,13140
+73,General Motors,Automotive (Automotive and Suppliers),United States,157000
+74,T Rowe Price,Banking and Financial Services,United States,7529
+75,Volvo Group,"Engineering, Manufacturing",Sweden,95000
+76,Alibaba Group,"IT, Internet, Software & Services",China,254941
+77,Intel,"IT, Internet, Software & Services",United States,121100
+78,Viatris,Drugs & Biotechnology,United States,37000
+79,DM,Retail and Wholesale,Germany,66076
+80,Mitsubishi Electric,"Engineering, Manufacturing",Japan,145696
+81,Pirelli,Automotive (Automotive and Suppliers),Italy,30690
+82,Enel,Utilities,Italy,66279
+83,Kempinski Hotels,Travel & Leisure      ,Switzerland,22500
+84,Naval Group,Aerospace & Defense,France,17373
+85,Naver,"IT, Internet, Software & Services",South Korea,4696
+86,Meritz Financial Group,Banking and Financial Services,South Korea,20
+87,Discover Financial Services,Banking and Financial Services,United States,16700
+88,Sony,Conglomerate,Japan,108900
+89,STIHL,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",Germany,20094
+90,Michelin Group,Automotive (Automotive and Suppliers),France,125000
+91,Novartis,Drugs & Biotechnology,Switzerland,108000
+92,The Hartford,Banking and Financial Services,United States,18100
+93,SK Group,Conglomerate,South Korea,117590
+94,De'Longhi,"Engineering, Manufacturing",Italy,10000
+95,DBS Bank,Banking and Financial Services,Singapore,33000
+96,Mastercard,Banking and Financial Services,United States,24000
+97,Electricite de France,Utilities,France,167157
+98,Verbund,Utilities,Austria,3184
+99,Panasonic,"Engineering, Manufacturing",Japan,240198
+100,Emirates,Transportation and Logistics,United Arab Emirates,85219
